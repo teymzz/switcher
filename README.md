@@ -1,2 +1,2 @@
 #Switcher
-This javascript file is a jquery plugin that uses attributes to switch between html tags in a group. It keeps the last selected element visible while others in the same group gets hidden
+This javascript file is a jquery plugin that uses attributes to track changes in html element in a group. It also keeps track of last activity on a webpage like last loaded page, last selected menu button, last visible section, making it easier to navigate webpage. 
